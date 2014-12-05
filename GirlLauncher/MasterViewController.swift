@@ -5,6 +5,7 @@
 //  Created by evange on 2014/12/06.
 //  Copyright (c) 2014年 tuscanal. All rights reserved.
 //
+//記念すべき初プログラム
 
 import UIKit
 import CoreData
